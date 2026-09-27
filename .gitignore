@@ -18,3 +18,20 @@ output/
 venv/
 .pytest_cache/
 .mypy_cache/
+
+# --- archive snapshot 2026-09-27 ---
+.DS_Store
+node_modules/
+.venv/
+venv/
+.next/
+__pycache__/
+.env
+.env.*
+!.env.example
+*.log
+.claude/worktrees/
+supabase/.temp/
+.sfdx/
+graphify-out/cache/
+.planning/graphify-out/cache/
